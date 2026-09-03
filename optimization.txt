@@ -1,1 +1,1 @@
-Line 1: Optimized for security
+Line 1: Optimized for both security and performance
